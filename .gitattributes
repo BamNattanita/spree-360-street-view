@@ -1,3 +1,0 @@
-dist/samples/**    linguist-generated
-dist/samples/**    -merge
-*.png filter=lfs diff=lfs merge=lfs -text
